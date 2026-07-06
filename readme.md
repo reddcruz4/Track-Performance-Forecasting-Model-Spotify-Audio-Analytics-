@@ -37,17 +37,20 @@ To eliminate manual data wrangling and ensure reproducibility across 10,000+ tra
 ### 1. Feature Importance (SHAP Summary)
 *This chart visualizes which audio features had the strongest impact on predicting high consumer engagement.*
 
-![SHAP Feature Importance](https://raw.githubusercontent.com/reddcruz4/Track-Performance-Forecasting-Model-Spotify-Audio-Analytics-/main/visualization/shap.png)
+<img width="792" height="940" alt="shap" src="https://github.com/user-attachments/assets/3e08eef7-d467-456f-87b1-983f38f2af93" />
+
 
 ### 2. Correlation Matrix of Audio Features
 *A heatmap identifying the multi-collinearity between structural audio features (e.g., the negative correlation between Energy and Acousticness).*
 
-![Correlation Matrix](https://raw.githubusercontent.com/reddcruz4/Track-Performance-Forecasting-Model-Spotify-Audio-Analytics-/main/visualization/correlation.png)
+<img width="725" height="627" alt="correlation" src="https://github.com/user-attachments/assets/5d343b3d-faa5-48f3-8279-bfd8384c79f5" />
+
 
 ### 3. Predicted vs. Actual Engagement Distributions
 *A visualization tracking the model's forecasting accuracy against the testing dataset.*
 
-![Model Accuracy Plot](https://raw.githubusercontent.com/reddcruz4/Track-Performance-Forecasting-Model-Spotify-Audio-Analytics-/main/visualization/accuracy.png)
+<img width="792" height="940" alt="shap" src="https://github.com/user-attachments/assets/269662f4-e046-4800-9380-42923afdb151" />
+
 ---
 
 ## 📊 Dataset & Audio Features
