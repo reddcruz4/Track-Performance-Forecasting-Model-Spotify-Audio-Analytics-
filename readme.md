@@ -49,7 +49,8 @@ To eliminate manual data wrangling and ensure reproducibility across 10,000+ tra
 ### 3. Predicted vs. Actual Engagement Distributions
 *A visualization tracking the model's forecasting accuracy against the testing dataset.*
 
-<img width="792" height="940" alt="shap" src="https://github.com/user-attachments/assets/269662f4-e046-4800-9380-42923afdb151" />
+<img width="1383" height="583" alt="accuracy" src="https://github.com/user-attachments/assets/9747b3d8-7a98-4fb1-be42-6bb0c4290d96" />
+
 
 ---
 
