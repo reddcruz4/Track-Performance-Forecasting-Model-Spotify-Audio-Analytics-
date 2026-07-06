@@ -47,7 +47,7 @@ To eliminate manual data wrangling and ensure reproducibility across 10,000+ tra
 ### 3. Predicted vs. Actual Engagement Distributions
 *A visualization tracking the model's forecasting accuracy against the testing dataset.*
 
-![Model Accuracy Plot](https://raw.githubusercontent.com/reddcruz4/Track-Performance-Forecasting-Model-Spotify-Audio-Analytics-/main/visualization/actual_vs_predicted.png)
+![Model Accuracy Plot](https://raw.githubusercontent.com/reddcruz4/Track-Performance-Forecasting-Model-Spotify-Audio-Analytics-/main/visualization/accuracy.png)
 ---
 
 ## 📊 Dataset & Audio Features
